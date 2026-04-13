@@ -110,7 +110,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
 3. Execute o código:
+   
 Para rodar o script Python:
+
 ```bash
 python correlacao_regressao_linear.py
 ```
